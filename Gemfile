@@ -31,7 +31,8 @@ gem 'friendly_id'
 gem 'devise'
 gem 'bootstrap'
 gem 'jquery-rails'
-gem 'copyright_renderer' 
+gem 'copyright_renderer'
+gem 'petergate'
 
 
 
