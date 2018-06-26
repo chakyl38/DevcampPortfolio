@@ -1,9 +1,3 @@
-GIT
-  remote: https://github.com/chakyl38/copyright_renderer
-  revision: 4daf4f0e696e3d8d40d70c5dabab95f2606128b9
-  specs:
-    copyright_renderer (0.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -69,6 +63,7 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     concurrent-ruby (1.0.5)
+    copyright_renderer (0.1.0)
     crass (1.0.4)
     devise (4.4.3)
       bcrypt (~> 3.0)
@@ -204,7 +199,7 @@ DEPENDENCIES
   bootstrap
   byebug
   coffee-rails (~> 4.2)
-  copyright_renderer!
+  copyright_renderer
   devise
   friendly_id
   jbuilder (~> 2.5)
